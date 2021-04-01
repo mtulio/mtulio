@@ -7,6 +7,8 @@
 
 </p>
 
+Red Hatter and Computer Engineer. Always studying: Cloud Computing,  DevOps, Open Source and Software Development.
+
 <!--
 
 ### Hi, I'm Marco! 👋
