@@ -7,7 +7,7 @@
 
 </p>
 
-Red Hatter and Computer Engineer. Always studying: Cloud Computing,  DevOps, Open Source and Software Development.
+Red Hatter and Computer Engineer. Always studying: Cloud Computing, System and Software Engineering, Containers, Open Source, Dev/Sec/Data/FinOps, and more.
 
 <!--
 
