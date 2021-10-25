@@ -4,12 +4,13 @@
   <a href="https://www.linkedin.com/in/mtuliorbraga" rel="nofollow">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge" style="max-width:100%;">
   </a>
-
 </p>
 
-Red Hatter and Computer Engineer. Always studying: Cloud Computing, System and Software Engineering, Containers, Open Source, Dev/Sec/Data/FinOps, and more.
+Hello World! =)
 
 <!--
+
+Red Hatter and Computer Engineer. Always studying: Cloud Computing, System and Software Engineering, Containers, Open Source, Dev/Sec/Data/FinOps, and more.
 
 ### Hi, I'm Marco! 👋
 
