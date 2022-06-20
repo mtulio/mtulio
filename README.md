@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Hello World! =)
+Hello World! =]
 
 <!--
 
@@ -25,5 +25,22 @@ Red Hatter and Computer Engineer. Always studying: Cloud Computing, System and S
 - DevOps, SecOps, FinOps, DataOps
 
 [![mtulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtulio&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://github.com/mtulio">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=mtulio&theme=chartreuse-dark&show_icons=true&hide_border=yes&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/mtulio">
+  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mtulio&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+
+<a href="https://github.com/grm34">
+  <img align="center" width="49%" src="./overall.svg" />
+</a>
+<a href="https://github.com/grm34">
+  <img align="center" width="49%" src="./achievements.svg" />
+</a>
+
+TODO: https://github.com/grm34/grm34/tree/main/.github/workflows
 
 --!>
