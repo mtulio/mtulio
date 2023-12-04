@@ -2,13 +2,15 @@
 
 Hello World! =]
 
+<!--
+
 <p>
   <a href="https://www.linkedin.com/in/mtuliorbraga" rel="nofollow">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge" style="max-width:100%;">
   </a>
 </p>
 
-<!--
+
 
 Red Hatter and Computer Engineer. Always studying: Cloud Computing, System and Software Engineering, Containers, Open Source, Dev/Sec/Data/FinOps, and more.
 
@@ -26,6 +28,8 @@ Red Hatter and Computer Engineer. Always studying: Cloud Computing, System and S
 
 [![mtulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtulio&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![mtulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtulio&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![mtulio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mtulio&hide_progress=true&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/mtulio">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=mtulio&theme=chartreuse-dark&show_icons=true&hide_border=yes&include_all_commits=true&count_private=true" />
@@ -43,4 +47,4 @@ Red Hatter and Computer Engineer. Always studying: Cloud Computing, System and S
 
 TODO: https://github.com/grm34/grm34/tree/main/.github/workflows
 
---!>
+-->
